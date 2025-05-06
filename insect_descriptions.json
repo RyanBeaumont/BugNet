@@ -1,0 +1,123 @@
+{
+    "Aphididae": {
+      "common_name": "Aphids",
+      "description": "Aphids are small, sap-sucking insects commonly found on plants. They are known for their rapid reproduction and their ability to transmit plant viruses."
+    },
+    "Culicidae": {
+      "common_name": "Mosquitoes",
+      "description": "Mosquitoes are flying insects, some of which are known for transmitting diseases like malaria, dengue, and Zika virus. They are blood-feeding parasites."
+    },
+    "Formicidae": {
+      "common_name": "Ants",
+      "description": "Ants are social insects that live in colonies. They are highly organized and often form large colonies with complex social structures."
+    },
+    "Apidae": {
+      "common_name": "Bees",
+      "description": "Bees are flying insects that are important pollinators. They include honey bees and bumble bees, which are critical for pollination in many ecosystems."
+    },
+    "Vespidae": {
+      "common_name": "Wasps, Yellowjackets, Hornets",
+      "description": "Wasps, including yellowjackets and hornets, are predatory insects known for their painful stings and aggressive behavior when threatened."
+    },
+    "Dermestidae": {
+      "common_name": "Carpet Beetles",
+      "description": "Carpet beetles are small beetles known for their larvae, which feed on organic materials like wool, fur, and feathers, often causing damage to household items."
+    },
+    "Curculionidae": {
+      "common_name": "Weevils",
+      "description": "Weevils are beetles with elongated snouts. They are known for their destructive feeding habits, especially in stored grains and plants."
+    },
+    "Noctuidae": {
+      "common_name": "Owlet Moths",
+      "description": "Owlet moths, including cutworms and earworms, are known for their nocturnal behavior. The larvae of some species can be agricultural pests."
+    },
+    "Chrysomelidae": {
+      "common_name": "Leaf Beetles",
+      "description": "Leaf beetles are herbivorous beetles that feed on plants, sometimes causing significant damage to crops and ornamental plants."
+    },
+    "Scarabaeidae": {
+      "common_name": "Scarab Beetles",
+      "description": "Scarab beetles include species like grubs and June beetles. They are often involved in the decomposition of organic material."
+    },
+    "Lygaeidae": {
+      "common_name": "Seed Bugs",
+      "description": "Seed bugs are a family of bugs that feed primarily on seeds. They can be pests of various crops."
+    },
+    "Tortricidae": {
+      "common_name": "Codling Moths, Leafrollers",
+      "description": "Tortricid moths are known for their larvae, which often roll or fold leaves for shelter. Some species, like the codling moth, are serious agricultural pests."
+    },
+    "Carabidae": {
+      "common_name": "Ground Beetles",
+      "description": "Ground beetles are predatory beetles that help control pest populations by preying on insects and other small animals in the soil."
+    },
+    "Coccinellidae": {
+      "common_name": "Lady Beetles",
+      "description": "Lady beetles, or ladybugs, are beneficial insects that feed on aphids and other plant pests, making them valuable for pest control."
+    },
+    "Buprestidae": {
+      "common_name": "Jewel Beetles, Borers",
+      "description": "Jewel beetles are known for their shiny, metallic appearance. Some species are wood-borers and can cause damage to trees."
+    },
+    "Reduviidae": {
+      "common_name": "Assassin Bugs",
+      "description": "Assassin bugs are predatory insects known for their aggressive hunting behavior. Some species are important in controlling pest populations."
+    },
+    "Sesiidae": {
+      "common_name": "Clearwing Moths, Borers",
+      "description": "Clearwing moths have transparent wings and their larvae are often borers in plants, especially fruit trees and woody plants."
+    },
+    "Pyralidae": {
+      "common_name": "Pantry Moths, Meal Moths",
+      "description": "Pyralid moths, including pantry and meal moths, are common household pests that infest dry food products like grains and cereals."
+    },
+    "Thysanoptera": {
+      "common_name": "Thrips",
+      "description": "Thrips are tiny, slender insects that feed on plants, often causing damage by puncturing plant cells to suck out their contents."
+    },
+    "Gelechiidae": {
+      "common_name": "Leaf Miners, Twig Borers",
+      "description": "Gelechiid moths are known for their larvae, which mine leaves or bore into twigs and stems, often damaging plants."
+    },
+    "Miridae": {
+      "common_name": "Plant Bugs",
+      "description": "Plant bugs are small, sap-sucking insects that can damage crops and ornamental plants by feeding on their juices."
+    },
+    "Pentatomidae": {
+      "common_name": "Stink Bugs",
+      "description": "Stink bugs are known for their ability to release a foul-smelling liquid when threatened. They are often agricultural pests."
+    },
+    "Blattidae": {
+      "common_name": "Cockroaches",
+      "description": "Cockroaches are nocturnal insects that are often associated with poor sanitation. They are known for their resilience and ability to thrive in various environments."
+    },
+    "Tipulidae": {
+      "common_name": "Crane Flies",
+      "description": "Crane flies resemble large mosquitoes and are typically harmless to humans. Their larvae, however, can be pests in lawns and gardens."
+    },
+    "Elateridae": {
+      "common_name": "Click Beetles",
+      "description": "Click beetles are known for their ability to flip into the air when threatened. Some species' larvae, known as wireworms, are pests of crops."
+    },
+    "Tingidae": {
+      "common_name": "Lace Bugs",
+      "description": "Lace bugs are small insects with distinctive lace-like wings. They often damage plants by sucking sap from the leaves."
+    },
+    "Psychodidae": {
+      "common_name": "Drain Flies",
+      "description": "Drain flies, also known as moth flies, are typically found near decaying organic matter like in drains or sewage systems."
+    },
+    "Calliphoridae": {
+      "common_name": "Blow Flies",
+      "description": "Blow flies are often attracted to decaying animal flesh. Their larvae are used in forensic entomology to estimate time of death."
+    },
+    "Tachinidae": {
+      "common_name": "Tachinid Flies",
+      "description": "Tachinid flies are parasitoid flies that lay eggs on or in the bodies of other insects, often killing their hosts."
+    },
+    "Ixodidae": {
+      "common_name": "Ticks",
+      "description": "Ticks are parasitic arachnids that feed on the blood of mammals, birds, and sometimes reptiles. They are vectors for various diseases like Lyme disease."
+    }
+  }
+  
